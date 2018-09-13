@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Neverland</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchProductsHint">Search products or enter new</string>
+</resources>
